@@ -5,5 +5,6 @@ public class Test_G {
         System.out.println("fffffff1");
         System.out.println("fffffff2");
         System.out.println("fffffff3");
+        System.out.println("end 1");
     }
 }
