@@ -7,5 +7,6 @@ public class Test_G {
         System.out.println("fffffff3");
 
         System.out.println("b1");
+        System.out.println("b2");
     }
 }
