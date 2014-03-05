@@ -9,4 +9,8 @@ public class TestTool {
     public double add(double i,double j){
         return i+j;
     }
+
+    public long add(long i,long j){
+        return i+j;
+    }
 }
