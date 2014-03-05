@@ -8,5 +8,6 @@ public class Test_G {
 
         System.out.println("b1");
         System.out.println("b2");
+        System.out.println("b3");
     }
 }
